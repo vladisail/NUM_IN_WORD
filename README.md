@@ -21,6 +21,7 @@
    git clone https://github.com/yourusername/Num_In_Word.git
 
 2. Перейдите в папку проекта:
+    ```bash
     cd number_to_words
 
 ## Использование
