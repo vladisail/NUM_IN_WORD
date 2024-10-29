@@ -22,7 +22,7 @@
 
 2. Перейдите в папку проекта:
     ```bash
-    cd number_to_words
+    cd Num_In_Word
 
 ## Использование
 
